@@ -5,7 +5,6 @@
 
 pin = 3
 
-
 Humidity = 0
 HumidityDec=0
 Temperature = 0
